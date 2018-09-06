@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\mfourzans\\documents\\visual studio 2017\\Projects\\Algorithms\\Algorithms.Classes\\Algorithms.Classes.csproj",
+      "projectUniqueName": "C:\\Personal\\Git\\Algorithms\\Algorithms.Classes\\Algorithms.Classes.csproj",
       "projectName": "Algorithms.Classes",
-      "projectPath": "c:\\users\\mfourzans\\documents\\visual studio 2017\\Projects\\Algorithms\\Algorithms.Classes\\Algorithms.Classes.csproj",
+      "projectPath": "C:\\Personal\\Git\\Algorithms\\Algorithms.Classes\\Algorithms.Classes.csproj",
       "packagesPath": "C:\\Users\\mfourzans\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\mfourzans\\documents\\visual studio 2017\\Projects\\Algorithms\\Algorithms.Classes\\obj\\",
+      "outputPath": "C:\\Personal\\Git\\Algorithms\\Algorithms.Classes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
